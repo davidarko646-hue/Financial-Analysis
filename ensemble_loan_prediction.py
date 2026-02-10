@@ -1,7 +1,7 @@
 """
 Loan Default Prediction Using Ensemble Methods
-Author: David Darko
-Institution: Northeastern University - MPhil Data Science
+Author: David Arko
+
 Date: February 2026
 
 This project compares 5 machine learning models and creates an ensemble
